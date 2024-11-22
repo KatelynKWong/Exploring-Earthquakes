@@ -1,4 +1,5 @@
-# DSC 106 Final Project: Exploring Global Earthquakes
+# DSC 106 Final Project: Exploring Global Earthquakes 
+(By Katelyn Wong, Eric Pham, Vanessa Hu)
 
 Welcome to our project repository dedicated to providing comprehensive information about earthquakes worldwide, with a focus on those occurring around the Pacific Ring of Fire.
 
